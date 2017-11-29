@@ -1,6 +1,4 @@
-my_list = []
-def my_func():
-  for x in range(0, 255):
-    my_list.insert(0, x)
-my_func()
-print(my_list)
+def chice[list1]:
+    result=list(filter((lambda x:x%2 == 0), list1))
+    return result
+print(chice(range(1,100)))
