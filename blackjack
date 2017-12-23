@@ -59,4 +59,4 @@ bob.draw(deck).draw(deck)
 bob.showHand()
 # deck.show()
 # card = deck.draw()
-# card.show()            self.cards[i], self.cards[r] = self.cards[r], self.cards[i]
+# card.show()            
